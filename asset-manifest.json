@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/drishti-vashisth-portfolio/static/css/main.0a482b8c.css",
+    "main.css": "/drishti-vashisth-portfolio/static/css/main.3cf243a2.css",
     "main.js": "/drishti-vashisth-portfolio/static/js/main.06d5417d.js",
     "static/media/cv.pdf": "/drishti-vashisth-portfolio/static/media/cv.953f2af016f7d3ec1cca.pdf",
     "static/media/me-about.jpg": "/drishti-vashisth-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
@@ -9,11 +9,11 @@
     "static/media/portfolio3.jpg": "/drishti-vashisth-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/me.png": "/drishti-vashisth-portfolio/static/media/me.50742e50c18b46c85580.png",
     "index.html": "/drishti-vashisth-portfolio/index.html",
-    "main.0a482b8c.css.map": "/drishti-vashisth-portfolio/static/css/main.0a482b8c.css.map",
+    "main.3cf243a2.css.map": "/drishti-vashisth-portfolio/static/css/main.3cf243a2.css.map",
     "main.06d5417d.js.map": "/drishti-vashisth-portfolio/static/js/main.06d5417d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a482b8c.css",
+    "static/css/main.3cf243a2.css",
     "static/js/main.06d5417d.js"
   ]
 }
